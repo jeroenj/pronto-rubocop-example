@@ -1,5 +1,5 @@
 class Foo
   def foo
-    puts 'foo'
+    puts "foo"
   end
 end

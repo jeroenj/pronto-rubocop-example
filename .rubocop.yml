@@ -1,0 +1,5 @@
+AllCops:
+  Exclude:
+    - bar.rb
+StringLiterals:
+  EnforcedStyle: single_quotes

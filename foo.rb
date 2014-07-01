@@ -4,6 +4,6 @@ class Foo
   end
 
   def bar
-      puts "bar"
+    puts "bar"
   end
 end

@@ -8,3 +8,5 @@ gem 'gitlab', path: '/Users/jeroen/Development/openminds/gitlab-api-wrapper'
 group :development do
   gem 'pry'
 end
+
+gem 'rugged', '~> 0.19.0'
